@@ -1,0 +1,13 @@
+.DS_Store
+
+# Original camera files; use the optimized WebP files in images/web.
+images/*.jpg
+images/*.jpeg
+
+# Legacy downloaded site capture; not part of the standalone landing page.
+site/assets/
+site/copy-of-number*.html
+site/workshopone.html
+site/README.md
+site/mirror_assets.py
+site/asset-download-failures.txt
